@@ -28,3 +28,9 @@ points
 * Remove all points from the space
 
   `DELETE /space`
+
+# About the solution
+
+- Language: Java
+- Framework: Spring Boot
+- Database: H2 Database
