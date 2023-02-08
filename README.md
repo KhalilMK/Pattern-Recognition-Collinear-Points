@@ -34,3 +34,4 @@ points
 - Language: Java
 - Framework: Spring Boot
 - Database: H2 Database
+- API Test: Postman or Swagger
